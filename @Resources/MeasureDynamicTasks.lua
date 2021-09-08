@@ -149,7 +149,7 @@ function Update()
 		dynamicOutput[#dynamicOutput + 1] = "[MeterRepeatingTask"..i.."]"
 		dynamicOutput[#dynamicOutput + 1] = "Meter=String"
 		dynamicOutput[#dynamicOutput + 1] = "Text="..tasks[i][1]
-		dynamicOutput[#dynamicOutput + 1] = "FontFace=Roboto"
+		dynamicOutput[#dynamicOutput + 1] = "FontFace=Google Sans"
 		dynamicOutput[#dynamicOutput + 1] = "FontSize=16"
 
 		-- grey out done task
